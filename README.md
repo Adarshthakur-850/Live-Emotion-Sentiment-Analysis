@@ -3,6 +3,7 @@
 
 A real-time AI-powered system that detects human emotions from live webcam input and performs sentiment analysis on text/messages. This project combines **Computer Vision**, **Deep Learning**, and **Natural Language Processing (NLP)** to analyze human emotions and sentiments in real time.
 
+
 ## Features
 
 - Real-time face detection using webcam
@@ -18,6 +19,12 @@ A real-time AI-powered system that detects human emotions from live webcam input
 - Live prediction output
 - User-friendly interface
 - Deep learning model integration
+
+<img width="636" height="547" alt="Screenshot 2026-02-08 164635" src="https://github.com/user-attachments/assets/0269ef9a-f323-46d5-8a0f-4dd19cbdcd28" />
+<img width="642" height="534" alt="Screenshot 2026-02-08 164620" src="https://github.com/user-attachments/assets/8312fd79-3097-4cd1-9c2a-c28e51391a07" />
+<img width="714" height="554" alt="Screenshot 2026-02-08 164930" src="https://github.com/user-attachments/assets/8ce07c75-0cea-4d1d-8b08-36e6305e97c5" />
+
+
 
 ## Tech Stack
 
